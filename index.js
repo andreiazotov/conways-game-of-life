@@ -1,5 +1,5 @@
 (function() {
-
+	//sss
     function Universe(canvasId) {
         var FPS = 15;
         var SEC = 1000;
